@@ -14,10 +14,10 @@ No Draco/meshopt compression is used.
 | File | Name | Author | Source | License | Notes |
 |---|---|---|---|---|---|
 | `frame-01.glb` | Pilot Sunglasses | Eric Chadwick, © 2024 Darmstadt Graphics Group GmbH | https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/SunglassesKhronos | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) | Changed: scaled to 0.14 m wide, origin moved to the nose bridge, Khronos / 3D Commerce logo texture removed from the temples (plain dark material instead), lenses converted to alpha blending |
-| `frame-02.glb` | Round Wire | JU-Hack team | generated procedurally (original geometry) | CC0 1.0 | |
-| `frame-03.glb` | Bold Square | JU-Hack team | generated procedurally (original geometry) | CC0 1.0 | |
-| `frame-04.glb` | Cat-Eye | JU-Hack team | generated procedurally (original geometry) | CC0 1.0 | |
-| `frame-05.glb` | Slim Rectangle | JU-Hack team | generated procedurally (original geometry) | CC0 1.0 | |
+| `frame-02.glb` | Round Wire | Slow and Curious team | generated procedurally (original geometry) | CC0 1.0 | |
+| `frame-03.glb` | Bold Square | Slow and Curious team | generated procedurally (original geometry) | CC0 1.0 | |
+| `frame-04.glb` | Cat-Eye | Slow and Curious team | generated procedurally (original geometry) | CC0 1.0 | |
+| `frame-05.glb` | Slim Rectangle | Slow and Curious team | generated procedurally (original geometry) | CC0 1.0 | |
 
 ## Furniture and decor (`public/assets/furniture/`)
 

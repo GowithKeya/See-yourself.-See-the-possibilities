@@ -1,6 +1,6 @@
 # How It Works: Architectural & Logic Deep-Dive
 
-> Comprehensive technical guide detailing the algorithms, 3D math, computer vision pipelines, state machines, and source code of the **Slow and Curious** (JU-Hack) spatial commerce engine.
+> Comprehensive technical guide detailing the algorithms, 3D math, computer vision pipelines, state machines, and source code of the **Slow and Curious** spatial commerce engine.
 
 ---
 

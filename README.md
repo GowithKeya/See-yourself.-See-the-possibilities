@@ -1,9 +1,9 @@
-# Slow and Curious (JU-Hack)
+# Slow and Curious
 
 > **Web-based Augmented Reality (AR) & 3D Commerce Experience**  
 > *Seamless, zero-install 3D Virtual Try-On for eyewear and room-scale AR furniture placement, running entirely in the browser.*  
 >  
-> 📖 **Deep Dive Documentation:** For a complete file-by-file logic breakdown, 3D math, and code explanations, read [HOW_IT_WORKS.md](file:///HOW_IT_WORKS.md).
+> 📖 **Deep Dive Documentation:** For a complete file-by-file logic breakdown, 3D math, and code explanations, read [HOW_IT_WORKS.md](./HOW_IT_WORKS.md).
 
 ---
 
@@ -144,7 +144,7 @@ flowchart TD
 ## 📂 Project Structure
 
 ```
-JU-Hack/
+See-yourself.-See-the-possibilities/
 ├── public/
 │   ├── assets/
 │   │   ├── frames/             # GLB 3D eyewear models (frame-01.glb .. frame-05.glb)
@@ -274,4 +274,4 @@ npm run preview
 
 ### 3D Assets & Acknowledgments
 - Third-party 3D models are sourced from the **[Khronos glTF-Sample-Assets](https://github.com/KhronosGroup/glTF-Sample-Assets)** repository under **CC BY 4.0** and **CC0 1.0** licenses, optimized and adapted for WebXR commerce standards.
-- Detailed licensing and individual model attributions can be found in [`public/assets/CREDITS.md`](file:///public/assets/CREDITS.md).
+- Detailed licensing and individual model attributions can be found in [`public/assets/CREDITS.md`](./public/assets/CREDITS.md).
