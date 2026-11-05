@@ -3,7 +3,9 @@
 > **Web-based Augmented Reality (AR) & 3D Commerce Experience**  
 > *Seamless, zero-install 3D Virtual Try-On for eyewear and room-scale AR furniture placement, running entirely in the browser.*  
 >  
-> 📖 **Deep Dive Documentation:** For a complete file-by-file logic breakdown, 3D math, and code explanations, read [HOW_IT_WORKS.md](./HOW_IT_WORKS.md).
+> 🌐 **Live Demo:** [https://see-yourself-see-the-possibilities.vercel.app/](https://see-yourself-see-the-possibilities.vercel.app/)  
+> 📖 **Deep Dive Documentation:** For a complete file-by-file logic breakdown, 3D math, and code explanations, read [HOW_IT_WORKS.md](./HOW_IT_WORKS.md).  
+> 📊 **Presentation Deck:** 10-slide pitch & technical story deck in [ppt.md](./ppt.md).
 
 ---
 
@@ -195,7 +197,16 @@ See-yourself.-See-the-possibilities/
 
 ---
 
-## 🚀 How to Run the Project
+## 🌐 Live Demo
+
+Experience the live application directly in your browser (no downloads or setup needed):  
+👉 **[https://see-yourself-see-the-possibilities.vercel.app/](https://see-yourself-see-the-possibilities.vercel.app/)**
+
+> **Note:** Supported on all modern desktop and mobile browsers (Chrome, Safari, Edge). Camera permissions are requested solely for real-time, on-device facial tracking and WebXR spatial placement.
+
+---
+
+## 🚀 How to Run Locally
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (version 18.0.0 or higher recommended)
